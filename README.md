@@ -1,4 +1,2 @@
-twscripts
+Tribal Wars scripts by Script_Coded
 =========
-
-Scripts for Tribal Wars
