@@ -1,4 +1,3 @@
-
 	c='
 512|556
 512|557
@@ -112,4 +111,3 @@
 	d.forms[0].marcher.value=0;
 	d.forms[0].knight.value=0;
 }
-end();
