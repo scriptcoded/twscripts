@@ -1,5 +1,4 @@
-javascript:function%20end(){
-	
+
 	c='
 512|556
 512|557
